@@ -1,0 +1,15 @@
+{
+  "name": "webpack-dynamic-import",
+  "version": "0.0.0",
+  "description": "Show dynamic import bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack && node dist/bundle.js"
+  },
+  "keywords": [],
+  "author": "Jan Krems",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}
